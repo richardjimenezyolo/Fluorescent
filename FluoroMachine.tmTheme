@@ -84,7 +84,7 @@
 				<key>foreground</key>
 				<string>#FC199A</string>
 				<key>fontStyle</key>
-				<string> bold</string>
+				<string> bold italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -606,6 +606,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#73817D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tag Name</string>
+			<key>scope</key>
+			<string>entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 	</array>
